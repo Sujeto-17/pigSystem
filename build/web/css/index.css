@@ -1,0 +1,18 @@
+body{
+    overflow: hidden;
+}
+.caja{
+    width: 30%;
+    margin: auto;
+    position: relative;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+
+.formu{
+    margin: 10px;
+}
+
+.boton{
+    margin-left: 35%;
+}
